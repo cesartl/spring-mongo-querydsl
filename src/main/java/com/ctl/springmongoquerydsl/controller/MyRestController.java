@@ -4,7 +4,6 @@ import com.ctl.springmongoquerydsl.dao.PersonRepository;
 import com.ctl.springmongoquerydsl.model.Person;
 import com.querydsl.core.types.Predicate;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

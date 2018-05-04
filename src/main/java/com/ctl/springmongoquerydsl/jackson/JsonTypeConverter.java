@@ -1,12 +1,9 @@
 package com.ctl.springmongoquerydsl.jackson;
 
-import com.github.drapostolos.typeparser.DynamicParser;
 import com.github.drapostolos.typeparser.TypeParser;
 
 import java.time.Instant;
-import java.time.LocalDateTime;
 import java.util.Date;
-import java.util.UUID;
 
 /**
  * Permit to transform an a string or integer value into the specified type.
